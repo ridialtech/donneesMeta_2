@@ -76,3 +76,8 @@ if isinstance(metadonnees, dict):
         print(f"{key}: {value}")
 else:
     print(metadonnees)
+
+# lien json pour le test
+# {
+#     "lien_pdf": "https://drive.google.com/file/d/1hRoZjtMA_GxhXLcmPD7p11xOFN0-Smi5/view?usp=drive_link"
+# }
