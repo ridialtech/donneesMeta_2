@@ -97,3 +97,11 @@ def verifier_signature_pdf():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+# fichier json pour teste
+# {
+#     "chemin_fichier_pdf": "C:\\Users\\fayei\\Documents\\teste6.pdf",
+#     "chemin_cle_privee": "C:\\Users\\fayei\\PycharmProjects\\donneesMeta\\apiScriptLocal\\cle_privee.pem",
+#     "chemin_signature": "C:\\Users\\fayei\\PycharmProjects\\donneesMeta\\apiScriptLocal\\signature.bin"
+# }
+
