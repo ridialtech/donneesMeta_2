@@ -100,3 +100,8 @@ def signer_pdf():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+# fichier json teste 
+# {
+#     "chemin_fichier_pdf": "C:\\Users\\fayei\\Documents\\teste6.pdf"
+# }
