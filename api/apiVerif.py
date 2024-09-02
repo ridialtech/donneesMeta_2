@@ -89,3 +89,11 @@ def verifier_pdf():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+
+# lien json pour test avec postman
+# {
+#     "lien_pdf": "https://drive.google.com/file/d/10R5jx6xpcGxb66To84_Yl_IQ-esNIOQ2/view?usp=sharing",
+#     "chemin_signature": "C:\\Users\\fayei\\PycharmProjects\\donneesMeta\\apiScriptLocal\\signature.bin",
+#     "chemin_cle_publique": "C:\\Users\\fayei\\PycharmProjects\\donneesMeta\\cle_publique.pem"
+# }
